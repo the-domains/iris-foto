@@ -1,0 +1,14 @@
+layout_spectrum: 0.7437276
+color:
+  saturation: 0.4032258
+  lightness: 0.4086021
+  brandStrength: 0.4677419
+  brandColors:
+    - '#CDDAE8'
+    - '#9BA2BD'
+    - '#283042'
+    - '#787788'
+    - '#2842C5'
+  rhythmicContrast: 0.5125448
+typography_spectrum: 0.06451613
+name: Iris Foto
